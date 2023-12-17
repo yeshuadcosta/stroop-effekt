@@ -1,0 +1,61 @@
+* {
+    padding: 0px;
+    margin: 10px;
+    box-sizing: border-box;
+
+    color: #4AF626;
+}
+
+div {
+    height: 80vh;
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1 {
+    font-family: 'Rubik Mono One', sans-serif;
+    font-size: 5vh;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 3vh;
+    font-style: italic;
+    text-align: center;
+}
+
+p {
+    font-family: 'Press Start 2P', cursive;
+}
+
+label {
+    font-family: 'Press Start 2P', cursive;
+}
+
+#button {
+    font-family: 'Press Start 2P', cursive;
+    font-size: larger;
+
+    border: 3px solid black;
+    padding: 5px;
+
+    box-sizing: content-box;
+    display: flex;
+    align-items: baseline;
+}
+
+a {
+    text-decoration: none;
+}
+
+.ins {
+    font-weight: 900;
+    color: green;
+}
+
+footer {
+    font-family: 'Press Start 2P', cursive;
+}
